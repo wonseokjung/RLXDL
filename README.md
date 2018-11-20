@@ -29,7 +29,8 @@ https://speakerdeck.com/wonseokjung/deep-reinforcemenet-learning-2
 
 ## 3. Introduction to Reinforcement Learning 
 
-강의 내용 : 
+본문 (슬라이드와 설명글): 
+https://github.com/wonseokjung/RLXDL/blob/master/3_reinforcement_learning/3_introduction_reinforcementlearning.md
 
 강의 슬라이드 : 
 https://speakerdeck.com/wonseokjung/introduction-deep-reinforcement-learning
