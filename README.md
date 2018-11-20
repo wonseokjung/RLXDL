@@ -24,3 +24,12 @@ https://github.com/wonseokjung/RLXDL/blob/master/2/2018-11-7-RLXDL-2.md
 
 강의 슬라이드 : 
 https://speakerdeck.com/wonseokjung/deep-reinforcemenet-learning-2
+
+
+
+## 3. Introduction to Reinforcement Learning 
+
+강의 내용 : 
+
+강의 슬라이드 : 
+https://speakerdeck.com/wonseokjung/introduction-deep-reinforcement-learning
